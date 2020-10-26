@@ -1,6 +1,6 @@
 
 
-![ftzz100's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&theme=synthwave)
+![ftzz100's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&show_icons=true)
 
 <!--
 
