@@ -1,7 +1,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&theme=synthwave)](https://github.com/ftzz100/github-readme-stats)
 
-
+![ftzz100's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&theme=synthwave)
 <!--
 
 Hi there 👋
