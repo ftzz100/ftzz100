@@ -1,6 +1,11 @@
 
 
-![ftzz100's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&show_icons=true)
+![ftzz100's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&theme=merko&show_icons=true)
+
+
+<!--
+![](https://komarev.com/ghpvc/?username=ftzz100&color=blue&style=flat-square&label=PROFILE+VIEWS)
+-->
 
 <!--
 
