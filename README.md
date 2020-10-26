@@ -1,6 +1,11 @@
-### Hi there 👋
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&theme=synthwave)](https://github.com/ftzz100/github-readme-stats)
+
 
 <!--
+
+Hi there 👋
+
 **ftzz100/ftzz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
