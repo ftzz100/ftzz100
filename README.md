@@ -1,6 +1,7 @@
 
 
-![ftzz100's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&theme=merko&show_icons=true)
+<!--![ftzz100's github stats](https://github-readme-stats.vercel.app/api?username=ftzz100&theme=merko&show_icons=true)
+-->
 
 
 <!--
